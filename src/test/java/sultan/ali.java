@@ -7,6 +7,7 @@ public class ali {
 	}
 	public static void run() {
 		System.out.println("run");
+		System.out.println("swim");
 	}
 
 }
