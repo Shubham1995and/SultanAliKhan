@@ -2,7 +2,7 @@ package king;
 
 import org.testng.annotations.Test;
 
-public class Test1 {
+public class cricketTest {
 @Test
 public void TestCase1() {
 	System.out.println("testcase234");

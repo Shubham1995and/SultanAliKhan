@@ -2,13 +2,13 @@ package king;
 
 import org.testng.annotations.Test;
 
-public class Test2 {
+public class swimingTest {
 	@Test
-	public void TestCaseRun1() {
+	public void TestCaseSwim1() {
 		System.out.println("testcase234");
 	}
 	@Test
-	public void TestCaseRun2() {
+	public void TestCaseSwim2() {
 		System.out.println("testcase234");
 	}
 }
