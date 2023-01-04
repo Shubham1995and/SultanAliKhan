@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="266" started-at="2023-01-03T05:33:29Z" finished-at="2023-01-03T05:33:29Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="266" started-at="2023-01-03T05:33:29Z" finished-at="2023-01-03T05:33:29Z">
+      <class name="king.Test2">
+        <test-method status="PASS" signature="TestCaseRun1()[pri:0, instance:king.Test2@75f32542]" name="TestCaseRun1" duration-ms="31" started-at="2023-01-03T05:33:29Z" finished-at="2023-01-03T05:33:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCaseRun1 -->
+        <test-method status="PASS" signature="TestCaseRun2()[pri:0, instance:king.Test2@75f32542]" name="TestCaseRun2" duration-ms="15" started-at="2023-01-03T05:33:29Z" finished-at="2023-01-03T05:33:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCaseRun2 -->
+      </class> <!-- king.Test2 -->
+      <class name="king.Test1">
+        <test-method status="PASS" signature="TestCase1()[pri:0, instance:king.Test1@7f1302d6]" name="TestCase1" duration-ms="15" started-at="2023-01-03T05:33:29Z" finished-at="2023-01-03T05:33:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+        <test-method status="PASS" signature="TestCase2()[pri:0, instance:king.Test1@7f1302d6]" name="TestCase2" duration-ms="15" started-at="2023-01-03T05:33:29Z" finished-at="2023-01-03T05:33:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase2 -->
+      </class> <!-- king.Test1 -->
+      <class name="king.Test3">
+        <test-method status="PASS" signature="TestCaseSwim1()[pri:0, instance:king.Test3@43ee72e6]" name="TestCaseSwim1" duration-ms="16" started-at="2023-01-03T05:33:29Z" finished-at="2023-01-03T05:33:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCaseSwim1 -->
+        <test-method status="PASS" signature="TestCaseSwim2()[pri:0, instance:king.Test3@43ee72e6]" name="TestCaseSwim2" duration-ms="0" started-at="2023-01-03T05:33:29Z" finished-at="2023-01-03T05:33:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCaseSwim2 -->
+      </class> <!-- king.Test3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
